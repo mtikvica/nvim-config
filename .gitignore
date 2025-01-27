@@ -1,0 +1,6 @@
+*.swp
+*.bak
+*.swap
+.nvim*
+.idea/
+node_modules/
